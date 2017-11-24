@@ -24,6 +24,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Bury Times: [Council pledges more work to bring empty homes back into use, as new figures reveal drop of almost 300 long-term vacant properties](http://www.burytimes.co.uk/news/15681419.Council_pledges_more_work_to_bring_empty_homes_back_into_use__as_new_figures_reveal_extent_of_problem/)
 * The Reading Chronicle: [The number of empty homes has slightly dropped in Reading since 2010](http://www.readingchronicle.co.uk/News/15669701.Number_of_empty_homes_slowly_drops/)
 * Scotland: Daily Record: [Council working hard to bring a thousand empty homes back into use](http://www.dailyrecord.co.uk/news/local-news/council-working-hard-bring-thousand-11577933)
+* Wales: Barry & District News: [Number of vacant homes in the Vale of Glamorgan among Wales' lowest](http://www.barryanddistrictnews.co.uk/news/15682463.Number_of_vacant_homes_in_the_Vale_of_Glamorgan_among_Wales__lowest/)
 * Mix 96: [Empty homes in Aylesbury Vale](https://www.mix96.co.uk/news/local/2436884/empty-homes-in-aylesbury-vale/)
 * Swindon Advertiser: [Is there an empty home near you?](http://www.swindonadvertiser.co.uk/News/15681475.Is_there_an_empty_home_near_you_/)
 * Bradford Telegraph & Argus: [Thousands of homes are still standing empty across Bradford district](http://www.thetelegraphandargus.co.uk/news/15680852.Nearly_4_000_homes_standing_empty_in_Bradford/)
