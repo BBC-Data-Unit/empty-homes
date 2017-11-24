@@ -1,5 +1,7 @@
 # Empty homes spike in London commuter belt
 
+![](https://news.files.bbci.co.uk/vj/live/idt-images/chart-emptyHOMESincreases/emptyHOMESincreases_upizs.png)
+
 In November 2017 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-41968461) London's commuter belt had seen a spike in the number of homes left long-term empty despite a downward trend across the UK since 2010.
 
 The England figures from the Department for Communities and Local Government included those which had been unoccupied and substantially unfurnished for over six months but excluded second homes.
