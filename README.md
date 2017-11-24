@@ -15,6 +15,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Pirate FM: [Over 1000 houses standing empty in Cornwall](https://www.piratefm.co.uk/news/latest-news/2437055/over-1000-houses-standing-empty-in-cornwall/)
 * Cornwall Live: [Cornwall to clamp down on 1,000 empty homes under new rules from Chancellor Phillip Hammond in Budget](http://www.cornwalllive.com/news/cornwall-news/empty-house-cornwall-chancellor-hammond-825166)
 * Cumbria: Times & Star: [Got an empty home on your street? Investigation reveals it could be among thousands across Cumbria](http://www.timesandstar.co.uk/news/other/Got-an-empty-home-on-your-street-Investigation-reveals-it-could-be-among-thousands-across-Cumbria-30724c1c-5867-4c18-800d-32fac304d1aa-ds)
+* Bristol Post: [This is how many empty homes are left in Bristol, North Somerset and South Gloucestershire](http://www.bristolpost.co.uk/news/bristol-news/how-many-empty-homes-left-824713)
+* Lancashire Telegraph: [East Lancashire one of the worst in the country for long-term empty homes](http://www.lancashiretelegraph.co.uk/news/15682932.REVEALED__How_many_empty_houses_are_there_in_your_town/)
 * Bracknell News: [The number of empty homes in Bracknell and Wokingham has dropped since 2010](http://www.bracknellnews.co.uk/news/15669686.Significant_fall_in_number_of_empty_homes/)
 * Coventry Telegraph: [This is how many homes are standing empty in Coventry and Warwickshire](http://www.coventrytelegraph.net/news/coventry-news/how-many-homes-standing-empty-13944613)
 * The Gazette: [Thousands of homes in Gloucestershire and South Gloucestershire left empty](http://www.gazetteseries.co.uk/news/15681458.Thousands_of_homes_in_Gloucestershire_and_South_Gloucestershire_left_empty/)
