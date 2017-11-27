@@ -33,7 +33,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Scotland: The Herald: [Number of empty houses hits seven-year high in Scotland](http://www.heraldscotland.com/news/15680826.Number_of_empty_houses_hits_seven_year_high_in_Scotland/)
 * West Bridgford Wire: [Thousands of homes standing empty across Nottinghamshire](http://westbridgfordwire.com/empty-homes-notts/)
 * Kent Online: [Almost 5,000 homes left empty in Kent in 2016](http://www.kentonline.co.uk/kent/news/nearly-5000-empty-homes-in-kent-135818/)
+* Wales: South Wales Argus: [Thousands of homes in Gwent left empty over six years](http://www.southwalesargus.co.uk/news/15680989.Thousands_of_homes_in_Gwent_left_empty_over_six_years/)
 * Bob FM: [Massive variations in empty home rates across Herts, Beds and Bucks](http://www.bobfm.co.uk/news/local-news/massive-variations-in-empty-home-rates-across-herts-beds-and-bucks/)
+* Nottingham Post: [Number of vacant homes in city and county is decreasing](http://www.nottinghampost.com/news/local-news/number-vacant-homes-city-county-835311)
+* Essex Live: [Brentwood's empty homes problem is UK's second worst](http://www.essexlive.news/news/essex-news/brentwoods-empty-homes-problem-uks-822176)
+* Devon Live: [Government plans tax rise to force empty homes back into use and help tackle housing shortage](http://www.devonlive.com/news/devon-news/government-plans-tax-rise-force-835462)
 
 ## Get the data
 
