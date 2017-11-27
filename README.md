@@ -38,6 +38,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nottingham Post: [Number of vacant homes in city and county is decreasing](http://www.nottinghampost.com/news/local-news/number-vacant-homes-city-county-835311)
 * Essex Live: [Brentwood's empty homes problem is UK's second worst](http://www.essexlive.news/news/essex-news/brentwoods-empty-homes-problem-uks-822176)
 * Devon Live: [Government plans tax rise to force empty homes back into use and help tackle housing shortage](http://www.devonlive.com/news/devon-news/government-plans-tax-rise-force-835462)
+* Grimsby Telegraph: [Rate of empty homes in North East Lincolnshire ranked NINTH highest in England](http://www.grimsbytelegraph.co.uk/news/grimsby-news/rate-empty-homes-north-east-837496)
 
 ## Get the data
 
