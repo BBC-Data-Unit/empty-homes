@@ -40,6 +40,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Devon Live: [Government plans tax rise to force empty homes back into use and help tackle housing shortage](http://www.devonlive.com/news/devon-news/government-plans-tax-rise-force-835462)
 * Grimsby Telegraph: [Rate of empty homes in North East Lincolnshire ranked NINTH highest in England](http://www.grimsbytelegraph.co.uk/news/grimsby-news/rate-empty-homes-north-east-837496)
 * The Shields Gazette: [Number of empty homes on South Tyneside falls 25% in six years](https://www.shieldsgazette.com/news/number-of-empty-homes-on-south-tyneside-falls-25-in-six-years-1-8880405)
+* The story was also covered by BBC Midlands Today, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Lancashire
 
 ## Get the data
 
