@@ -40,6 +40,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Devon Live: [Government plans tax rise to force empty homes back into use and help tackle housing shortage](http://www.devonlive.com/news/devon-news/government-plans-tax-rise-force-835462)
 * Grimsby Telegraph: [Rate of empty homes in North East Lincolnshire ranked NINTH highest in England](http://www.grimsbytelegraph.co.uk/news/grimsby-news/rate-empty-homes-north-east-837496)
 * The Shields Gazette: [Number of empty homes on South Tyneside falls 25% in six years](https://www.shieldsgazette.com/news/number-of-empty-homes-on-south-tyneside-falls-25-in-six-years-1-8880405)
+* Hartlepool Mail: [Number of empty homes in Hartlepool falls 18% in six years](https://www.hartlepoolmail.co.uk/news/number-of-empty-homes-in-hartlepool-falls-18-in-six-years-1-8881727)
+* Hackney Citizen: [Hackney has more than 1,000 empty homes – amid ‘urgent’ housing crisis](https://www.hackneycitizen.co.uk/2017/11/29/hackney-more-than-1000-empty-homes-urgent-housing-crisis/)
+* Accrington Observer: [Hyndburn still in UK's top 10 for empty homes - despite drop since 2012](http://www.accringtonobserver.co.uk/news/hyndburn-still-uks-top-10-13971820)
+* Northamptonshire Telegraph: [Corby has fewest empty homes in UK](https://www.northantstelegraph.co.uk/news/corby-has-fewest-empty-homes-in-uk-1-8267886)
+* Daily Echo: [Rise of 60 per cent in number of empty homes in Poole](http://www.bournemouthecho.co.uk/newS/15690073.Poole_sees_number_of_empty_homes_more_than_double_in_a_year/)
+* Bournemouth: Buzz: [Empty homes rise by 60% in Poole](http://buzz.bournemouth.ac.uk/2017/11/empty-homes-rise-60-per-cent-poole/)
 * The story was also covered by BBC Midlands Today, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Lancashire
 
 ## Get the data
