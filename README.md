@@ -46,6 +46,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northamptonshire Telegraph: [Corby has fewest empty homes in UK](https://www.northantstelegraph.co.uk/news/corby-has-fewest-empty-homes-in-uk-1-8267886)
 * Daily Echo: [Rise of 60 per cent in number of empty homes in Poole](http://www.bournemouthecho.co.uk/newS/15690073.Poole_sees_number_of_empty_homes_more_than_double_in_a_year/)
 * Bournemouth: Buzz: [Empty homes rise by 60% in Poole](http://buzz.bournemouth.ac.uk/2017/11/empty-homes-rise-60-per-cent-poole/)
+* Cambridge Independent: [Progress being made in Cambridge on empty homes crackdown](http://www.cambridgeindependent.co.uk/news/cambridge/progress-being-made-in-cambridge-on-empty-homes-crackdown-1-5303123)
+* Gloucestershire Live: [Thousands of long-term empty homes in Gloucestershire amid housing shortage](http://www.gloucestershirelive.co.uk/news/cheltenham-news/thousands-long-term-empty-homes-864222)
 * The story was also covered by BBC Midlands Today, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Lancashire
 
 ## Get the data
