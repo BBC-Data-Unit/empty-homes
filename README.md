@@ -50,6 +50,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Gloucestershire Live: [Thousands of long-term empty homes in Gloucestershire amid housing shortage](http://www.gloucestershirelive.co.uk/news/cheltenham-news/thousands-long-term-empty-homes-864222)
 * Stourbridge News: [Thousands of homes empty in Black Country](http://www.stourbridgenews.co.uk/NEWS/15694502.Thousands_of_homes_empty_in_Black_Country/)
 * Burnley Express: [Empty homes falling in Burnley but still near national high](https://www.burnleyexpress.net/news/empty-homes-falling-in-burnley-but-still-near-national-high-1-8888469)
+* Lancashire Telegraph: [31 empty homes could be 'revamped' in Pendle](http://www.lancashiretelegraph.co.uk/news/16083175.31_empty_homes_could_be___39_revamped__39__in_Pendle/)
 * The story was also covered by BBC Midlands Today, BBC WM, BBC Radio Shropshire, BBC Hereford & Worcester and BBC Radio Lancashire
 
 ## Get the data
